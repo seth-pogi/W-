@@ -1,20 +1,20 @@
 return {
   --Seth Main
-  [2729674132] = Color3.fromRGB(138, 0, 0),
+  [7262715069] = Color3.fromRGB(138, 0, 0),
   --Seth Alt 1
-  [2412582721] = Color3.fromRGB(224, 0, 0),
+  [7954810997] = Color3.fromRGB(224, 0, 0),
   --Seth Alt 2
-  [4751887553] = Color3.fromRGB(255, 73, 156),
+  [7488852218] = Color3.fromRGB(255, 73, 156),
   --Renn Main
-  [3634405450] = Color3.fromRGB(138, 0, 0),
+  [7404802184] = Color3.fromRGB(138, 0, 0),
   --Renn Alt
-  [3678793516] = Color3.fromRGB(65, 35, 186),
+  [8682438191] = Color3.fromRGB(65, 35, 186),
   --Kevvv Main
-  [7404802184] = Color3.fromRGB(63, 85, 147),
+  [3380703051] = Color3.fromRGB(63, 85, 147),
   --Selur main
-  [4961758935] = Color3.fromRGB(224, 0, 0),
+  [1240860265] = Color3.fromRGB(224, 0, 0),
   --Vinny Main
-  [4253743839] = Color3.fromRGB(255, 73, 156),
+  [6081624822] = Color3.fromRGB(255, 73, 156),
   --Paw Main
-  [1807166015] = Color3.fromRGB(0, 0, 0),
+  [5057536137] = Color3.fromRGB(0, 0, 0),
 }
