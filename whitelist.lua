@@ -19,4 +19,6 @@ return {
   [6081624822] = true,
   -- Paw Main
   [5057536137] = true,
+  -- Yams Main
+  [3219789093] = true,
 } 
