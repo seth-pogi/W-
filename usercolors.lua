@@ -19,4 +19,6 @@ return {
   [6081624822] = Color3.fromRGB(255, 73, 156),
   --Paw Main
   [5057536137] = Color3.fromRGB(0, 0, 0),
+  --Yams Main
+  [3219789093] = Color3.fromRGB(0, 0, 0),
 }
