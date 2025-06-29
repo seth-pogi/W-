@@ -5,6 +5,8 @@ return {
   [7954810997] = true,
   --Seth Alt 2
   [7488852218] = true,
+  --Seth Alt 3
+  [8715739547] = true,
   --Renn Main
   [7404802184] = true, 
   --Renn Alt
