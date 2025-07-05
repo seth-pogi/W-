@@ -27,6 +27,6 @@ return {
   [5764721857] = true,
   -- Mark Alt
   [5536599484] = true,
-  -- Mark Alt
+  -- Jay Main
   [3034004536] = true,
 } 
