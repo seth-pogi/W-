@@ -2,10 +2,8 @@ return {
   --Seth Main
   [7262715069] = Color3.fromRGB(138, 0, 0),
   --Seth Alt 1
-  [7954810997] = Color3.fromRGB(224, 0, 0),
-  --Seth Alt 2
   [7488852218] = Color3.fromRGB(255, 73, 156),
-  --Seth Alt 3
+  --Seth Alt 2
   [8715739547] = Color3.fromRGB(255, 73, 156),
   --Renn Main
   [7404802184] = Color3.fromRGB(138, 0, 0),
