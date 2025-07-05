@@ -27,4 +27,6 @@ return {
   [5764721857] = Color3.fromRGB(0, 0, 0),
   --Mark Alt
   [5536599484] = Color3.fromRGB(0, 0, 0),
+  --Jay Main
+  [3034004536] = Color3.fromRGB(0, 0, 0),
 }
