@@ -27,6 +27,4 @@ return {
   [5536599484] = true,
   -- Jay Main
   [3034004536] = true,
-  -- Sudeis Main
-  [2289904334] = true,
 } 
