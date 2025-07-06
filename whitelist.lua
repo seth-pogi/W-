@@ -19,14 +19,10 @@ return {
   [5057536137] = true,
   -- Yams Main
   [3219789093] = true,
-  -- Siyaansh Main
-  [3660656551] = true,
   -- Mark Main
   [5764721857] = true,
   -- Mark Alt
   [5536599484] = true,
   -- Jay Main
   [3034004536] = true,
-   -- Sudeis Main
-  [2289904334] = true,
 } 
