@@ -19,14 +19,10 @@ return {
   [5057536137] = Color3.fromRGB(0, 0, 0),
   --Yams Main
   [3219789093] = Color3.fromRGB(0, 0, 0),
-  --Siyaansh Main
-  [3660656551] = Color3.fromRGB(0, 0, 0),
   --Mark Main
   [5764721857] = Color3.fromRGB(0, 0, 0),
   --Mark Alt
   [5536599484] = Color3.fromRGB(0, 0, 0),
   --Jay Main
   [3034004536] = Color3.fromRGB(0, 0, 0),
-  --Sudeis Main
-  [2289904334] = Color3.fromRGB(0, 0, 0),
 }
