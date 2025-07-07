@@ -21,8 +21,6 @@ return {
   [3219789093] = true,
   -- Mark Main
   [5764721857] = true,
-  -- Mark Alt
-  [5536599484] = true,
   -- Jay Main
   [3034004536] = true, 
   -- Sudeis acc 1
