@@ -21,8 +21,6 @@ return {
   [3219789093] = Color3.fromRGB(0, 0, 0),
   --Mark Main
   [5764721857] = Color3.fromRGB(0, 0, 0),
-  --Mark Alt
-  [5536599484] = Color3.fromRGB(0, 0, 0),
   --Jay Main
   [3034004536] = Color3.fromRGB(0, 0, 0),
   --Sudeis acc 1
@@ -31,6 +29,4 @@ return {
   [4346640880] = Color3.fromRGB(0, 0, 0),
   --Sudeis acc 3
   [3035004615] = Color3.fromRGB(0, 0, 0),
-  --Sudeis acc 4
-  [3053406370] = Color3.fromRGB(0, 0, 0),
 }
