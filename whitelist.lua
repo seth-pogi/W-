@@ -29,4 +29,6 @@ return {
   [4346640880] = true,
   -- Sudeis acc 3
   [3035004615] = true,
+  -- Sudeis acc 4
+  [3053406370] = true,
 } 
