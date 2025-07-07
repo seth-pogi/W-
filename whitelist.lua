@@ -24,5 +24,13 @@ return {
   -- Mark Alt
   [5536599484] = true,
   -- Jay Main
-  [3034004536] = true,
+  [3034004536] = true, 
+  -- Sudeis acc 1
+  [2289904334] = true,
+  -- Sudeis acc 2
+  [4346640880] = true,
+  -- Sudeis acc 3
+  [3035004615] = true,
+  -- Sudeis acc 4
+  [3053406370] = true,
 } 
